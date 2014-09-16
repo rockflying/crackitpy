@@ -13,3 +13,7 @@ def loadDataSet():
 		       ['quit', 'buying', 'worthless', 'dog', 'food', 'stupid']]
 	classVec = [0, 1, 0, 1, 0, 1]
 	return postingList, classVec
+
+def main():
+	pass
+
